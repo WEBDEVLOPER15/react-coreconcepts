@@ -1,0 +1,48 @@
+body {
+   background-image: url("../images/1.png");
+   background-repeat: no-repeat, repeat;
+   background-size:cover;
+ 
+ } 
+
+
+
+#container {
+    text-align: center;
+     
+ }
+ 
+ #left, #middle, #right {
+      width: 400px;
+       display:inline-block;
+       background:#aaa;
+       height: 300px;
+       padding-left: 10px;
+       padding-right: 10px;
+       padding-top: 10px;
+       padding-bottom: 10px;
+       margin-top: 10px;
+       margin-bottom: 10px;
+       margin-right: 10px;
+       margin-left:10px;
+ }
+
+ #container1 {
+    text-align: center;
+     
+ }
+ 
+ #left1,  #right1 {
+      width: 600px;
+       display:inline-block;
+       background:#aaa;
+       height: 300px;
+       padding-left: 20px;
+       padding-right: 15px;
+       padding-top: 20px;
+       padding-bottom: 15px;
+       margin-top: 10px;
+       margin-bottom: 10px;
+       margin-right: 10px;
+       margin-left:10px;
+ }
